@@ -17,3 +17,187 @@
     margin: 0 auto;
     margin-bottom: 20px;
 }
+#full {
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 96px;
+}
+#buleta {
+    color: #6941C6;
+    font-size: 14px;
+}
+h1 {
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #181D27;
+    font-size: 30px;
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 1176px;
+    width: 100%;
+}
+#headingdiv > img {
+    vertical-align: middle;
+    margin-left: 16px;
+}
+#howdo {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+#designi {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    font-size: 14px;
+    display: inline-block;
+}
+#researchi {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    color: #3538CD;
+    font-size: 14px;
+    display: inline-block;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+#presentation {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    color: #C11574;
+    font-size: 14px;
+    display: inline-block;
+}
+#boxerti, #boxori, #boxsami, #boxotxi, #boxxuti, #boxekvsi {
+    display: inline-block;
+    max-width: 384px;
+    width: 100%;
+    vertical-align: middle;
+}
+#boxerti, #boxori, #boxsami {
+    margin-top: 64px;
+    vertical-align: middle;
+}
+#boxotxi, #boxxuti, #boxekvsi {
+    margin-top: 48px;
+    vertical-align: middle;
+}
+#boxori, #boxxuti {
+    margin-left: 32px;
+    margin-right: 32px;
+}
+#phoenix, #lana, #alec, #demi, #candice, #natali {
+    color: #6941C6;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 8px;
+}
+h2 {
+    color: #181D27;
+    font-size: 24px;
+    max-width: 340px;
+    width: 100%;
+    margin-right: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#boxone > img, #boxtwo > img, #boxthree > img, #boxfour > img, #boxfive > img, #boxsix > img {
+    vertical-align: middle;
+}
+#pone, #ptwo, #pthree, #pfour, #pfive, #psix {
+    margin-top: 8px;
+    margin-bottom: 24px;
+    color: #535862;
+    font-size: 16px;
+}
+#product, #productt {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    background-color: #F0F9FF;
+    color: #026AA2;   
+    border: 1px solid #B9E6FE;
+    display: inline-block;
+}
+#tools, #toolss {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    color: #C11574;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    display: inline-block;
+    margin-left: 8px;
+}
+#saas {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+    color: #C11574;
+    display: inline-block;
+    margin-left: 8px;
+}
+#software {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    display: inline-block;
+    color: #067647;
+    border: 1px solid #ABEFC6;
+    background-color: #ECFDF3;
+}
+#leadership {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    display: inline-block;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    color: #6941C6;
+}
+#management {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    display: inline-block;
+    background-color: #F8F9FC;
+    color: #363F72;
+    margin-left: 8px;
+}
+#research, #researchh, #researchhh {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    display: inline-block;
+    border: 1px solid #C7D7FE;
+    background-color: #EEF4FF;
+    color: #3538CD;
+    margin-left: 8px;
+}
+#frameworks {
+    margin-left: 8px;
+    padding: 8px 12px;
+    border-radius: 9999px;
+    font-size: 14px;
+    display: inline-block;
+    color: #B93815;
+    border: 1px solid #F9DBAF;
+    background-color: #FEF6EE;
+}
+#design, #designn {
+    padding: 8px 12px;
+    border-radius: 9999px;
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+    color: #6941C6;
+    font-size: 14px;
+    display: inline-block;
+}
